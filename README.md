@@ -1,7 +1,5 @@
 # Magento2 Custom Mail
 
-**Under development**
-
 # Example
 ```
 $data = [
